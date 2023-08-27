@@ -1,0 +1,13 @@
+.style1{
+    font-style: italic;
+    color: green;
+    font-size: 3rem;
+}
+
+.div-style{
+    height: 250px;
+    width: 400px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: tomato;
+}
